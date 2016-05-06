@@ -6,7 +6,7 @@ Demo: http://embed.plnkr.co/zA1BlwAz4rupdyEHcGCd/preview
 
 # instalação
 
-Baixe os arquivos do projeto, e adicione-os como dependência do seu projeto.
+Baixe os arquivos da diretiva, e adicione-os como dependência do seu projeto.
 
 No seu html adicione a seguinte tag:
 ```html
